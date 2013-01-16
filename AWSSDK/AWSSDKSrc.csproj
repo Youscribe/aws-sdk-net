@@ -8339,6 +8339,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="awssdk.dll.snk" />
+    <None Include="AWSSDKSrc.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Amazon.S3\Model\GetNotificationConfigurationResponse.xslt" />
